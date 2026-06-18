@@ -1,1 +1,16 @@
-node_modules
+# dependencies
+node_modules/
+
+# build outputs
+dist/
+build/
+out/
+
+# electron builds
+*.AppImage
+*.asar
+*.exe
+*.zip
+
+# logs
+*.log
